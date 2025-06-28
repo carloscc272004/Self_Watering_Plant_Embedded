@@ -11,4 +11,4 @@ moisture percent, temperature, and image interface for facilitated user interfac
 
 [Link to LinkedIn Post](https://www.linkedin.com/posts/carloscruzgarza_during-the-recent-ece-student-awards-ceremony-activity-7196592682704531457-cxQ-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2QngQBTTjVreY3uQbwZCDGGmvxyq34cyU)
 
-[Image](/images/SMAC_Project.png)
+![Image](/images/SMAC_Project.png)
