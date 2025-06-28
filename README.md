@@ -1,5 +1,9 @@
 # Self_Watering_Plant_Embedded
 
+[Link to LinkedIn Post](https://www.linkedin.com/posts/carloscruzgarza_during-the-recent-ece-student-awards-ceremony-activity-7196592682704531457-cxQ-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2QngQBTTjVreY3uQbwZCDGGmvxyq34cyU)
+
+Me and my team finished third place in our Microcomputer Systems I class for our design and implementation of a Self Water Plant Module using the PIC16F1829 micronctroller!
+
 * Worked in a group of four to design, program, and implement a project where a PIC16F1829 Microcontroller was used to trigger 
 a signal and open a valve to water a plant 
 
@@ -9,6 +13,5 @@ moisture percent, temperature, and image interface for facilitated user interfac
 
 * Output signal of 5v with GPIO pins onto a Solid-State relay to trigger 12v DC valve if moisture reading fell below threshold
 
-[Link to LinkedIn Post](https://www.linkedin.com/posts/carloscruzgarza_during-the-recent-ece-student-awards-ceremony-activity-7196592682704531457-cxQ-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2QngQBTTjVreY3uQbwZCDGGmvxyq34cyU)
 
 ![Image](/images/SMAC_Project.png)
